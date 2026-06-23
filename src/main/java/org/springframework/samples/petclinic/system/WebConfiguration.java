@@ -21,7 +21,6 @@ import java.util.Locale;
  * @author Anuj Ashok Potdar
  */
 @Configuration
-@SuppressWarnings("unused")
 public class WebConfiguration implements WebMvcConfigurer {
 
 	/**
